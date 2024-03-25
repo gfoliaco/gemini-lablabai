@@ -1,0 +1,16 @@
+streamlit
+pandas
+python-IO
+datetime
+python-dotenv
+python-time
+langchain
+python-utils
+gemini-python
+pdfplumber
+langchain_experimental 
+langchain_core
+google-generativeai==0.3.1
+google-ai-generativelanguage==0.4.0
+langchain-google-genai
+langchain[docarray]
