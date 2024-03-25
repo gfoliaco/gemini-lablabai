@@ -82,6 +82,6 @@ def main():
 
 if __name__ == "__main__":
     st.set_page_config(
-        page_title="MilestoneMaster", page_icon="icono"
+        page_title="CarrerCoachMaster", page_icon="icono"
     )
     main()
