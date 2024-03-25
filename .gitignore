@@ -2,3 +2,4 @@
 /workspaces/ubuntu/.env
 /workspaces/ubuntu/.github
 /workspaces/ubuntu/.devcontainer
+app.yaml
